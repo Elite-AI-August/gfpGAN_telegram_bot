@@ -7,7 +7,7 @@ Telegram bot written in node typescript for GFPGAN Real-world Face Restoration t
 
 ### Clone repo
 ```
-git clone https://github.com/TencentARC/GFPGAN.git
+git clone https://github.com/Elite-AI-August/GFPGAN.git
 cd GFPGAN
 ```
 ### Install dependent packages
